@@ -3,8 +3,10 @@ function About() {
     <section>
       <h2>Sobre mim</h2>
       <p>
-        Sou estudante de desenvolvimento web, focado em aprender na prática e
-        criar soluções reais usando JavaScript e React.
+        Sou desenvolvedor em formação, focado em aprender na prática e criar
+        soluções reais com JavaScript, HTML, CSS e React. Mesmo sem formação
+        acadêmica no momento, busco evoluir diariamente através de projetos
+        próprios, estudo constante e boas práticas de desenvolvimento.
       </p>
     </section>
   );
