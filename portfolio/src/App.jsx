@@ -1,8 +1,15 @@
+import Header from "./components/Header";
+import About from "./components/About";
+import Projects from "./components/Projects";
+import Contact from "./components/Contact";
+
 function App() {
   return (
     <main>
-      <h1>Renato Diniz</h1>
-      <p>Desenvolvedor em formação</p>
+      <Header />
+      <About />
+      <Projects />
+      <Contact />
     </main>
   );
 }
