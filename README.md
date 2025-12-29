@@ -24,13 +24,15 @@ Criar um portfólio simples e organizado para praticar:
 - Organização de código
 - Publicação de projetos
 
-## 📂 Como rodar o projeto localmente
-```bash
-npm install
-npm run dev
-
+  
 👤 Autor
 
 Renato Diniz
 🔗 https://github.com/renatodinizpro
 🔗 https://www.linkedin.com/in/renato-diniz-3532973a2/
+
+## 📂 Como rodar o projeto localmente
+```bash
+npm install
+npm run dev
+
