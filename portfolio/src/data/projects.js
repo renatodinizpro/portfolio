@@ -1,12 +1,12 @@
 const projects = [
   {
     id: 1,
-    title: "Gerenciador de Tarefas",
+    title: "Portfólio Pessoal",
     description:
-      "Aplicação para criar, organizar e concluir tarefas com categorias, prioridades e salvamento automático.",
-    technologies: ["React", "CSS", "LocalStorage"],
+      "Portfólio desenvolvido com React para apresentar meus estudos em desenvolvimento front-end, com foco em organização de componentes, estilização e responsividade.",
+    technologies: ["React", "JavaScript", "HTML", "CSS"],
     github: "https://github.com/renatodinizpro",
-    demo: "https://organize-seu-dia.vercel.app/",
+    demo: "https://renatodiniz.vercel.app",
   },
 ];
 
