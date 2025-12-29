@@ -1,12 +1,12 @@
 const projects = [
   {
     id: 1,
-    title: "Lista de Tarefas",
+    title: "Gerenciador de Tarefas",
     description:
-      "Aplicação para criar, remover e marcar tarefas como concluídas.",
-    technologies: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/renatodinizpro/todo-list",
-    demo: "",
+      "Aplicação para criar, organizar e concluir tarefas com categorias, prioridades e salvamento automático.",
+    technologies: ["React", "CSS", "LocalStorage"],
+    github: "https://github.com/renatodinizpro",
+    demo: "https://organize-seu-dia.vercel.app/",
   },
 ];
 
