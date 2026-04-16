@@ -3,10 +3,11 @@ function About() {
     <section>
       <h2>Sobre mim</h2>
       <p>
-        Sou desenvolvedor em formação, focado em aprender na prática e criar
-        soluções reais com JavaScript, HTML, CSS e React. Mesmo sem formação
-        acadêmica no momento, busco evoluir diariamente através de projetos
-        próprios, estudo constante e boas práticas de desenvolvimento.
+        Olá! Sou o Renato. Comecei minha jornada no desenvolvimento de forma
+        autodidata, movido pela curiosidade de como a web funciona. Hoje, foco
+        em criar experiências digitais fluidas com React e JavaScript. Minha
+        formação é construída diariamente através de projetos práticos e da
+        resolução de problemas que encontro no caminho.
       </p>
     </section>
   );

@@ -5,7 +5,7 @@ function Header() {
     <header>
       <img src={foto} alt="Foto de Renato Diniz" />
       <h1>Renato Diniz</h1>
-      <p>Desenvolvedor em formação</p>
+      <p>Desenvolvedor Front-end</p>
     </header>
   );
 }
